@@ -8,6 +8,7 @@ while the samples are licensed under the Creative Commons Attribution 4.0 Intern
 plus an additional license granting more permissions (CC+). The three licenses GPL, CC, and CC+
 are provided below in full.
 
+----------------------------------------------------------------------------
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
