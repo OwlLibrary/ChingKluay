@@ -65,6 +65,15 @@ ChingKluay will use Open and Closed sound (normal version) by default.
 If you wish to use lightly muted version or change note head and/or position on the staff,
 use "Customize kit" on Musescore 4 drum tab.
 
+## Installation (Manual)
+
+1. Copy `ChingKluay.vst3` to `C:\Program Files\Common Files\VST3`
+2. Open ChingKluay from your DAW or software that supports VST3
+3. ChingKluay will ask for `ChingKluay_1_0_0_Samples.hr1` file and where to install library
+4. The default window size of ChingKluay is too small, but you can click on the extraction setting once to show the bottom of the window. Click OK to extract the samples.
+5. Relaunch ChingKluay. It will be ready to use the next time you use.
+
+
 ## Decent Sampler version
 
 ChingKluay also available as Decent Sampler library.
@@ -75,7 +84,7 @@ You can download from [Pianobook](https://www.pianobook.co.uk/packs/chingkluay/)
 ChingKluay consists of two components
 
 1. The VST plugin software
-2. Audio samples.
+2. Audio samples
 
 The software and its source code are licensed under the GNU General Public License (GPLv3.0)
 while the samples are licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0), plus an additional license granting more permissions (CC+).
